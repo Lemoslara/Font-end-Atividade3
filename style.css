@@ -1,0 +1,25 @@
+header{
+    display: flex;
+} 
+
+#imagem-navbar{
+    width: 100px;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}   
+.cards{
+    display: flex;
+    gap: 40px;
+}
+body{
+    background-color: rgb(210, 218, 194);
+}
+main{
+    background-color: rgb(236, 234, 230);
+}
+footer{
+    text-align: center;
+}
